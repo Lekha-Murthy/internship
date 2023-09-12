@@ -1,3 +1,3 @@
 # internship
-First repo
+First repo. 
 Author - Lekha Murthy
